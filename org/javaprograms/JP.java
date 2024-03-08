@@ -15,9 +15,12 @@ import java.util.Set;
 public class JP {
 	
 	
+	//Kumar branch codes
+	
+	
 	//1).Reverse a String without inbuilt function
 	private void stringReverse() {
-		String S1="Hello Dineshkumar welcome to software testing";
+		String S1="Hello Dineshkumar welcome to kumar branch codes";
 		char[] charArray = S1.toCharArray();
 		System.out.println("Original String : "+S1);
 		System.out.print("Reversed String : ");
