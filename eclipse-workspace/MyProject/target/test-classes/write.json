@@ -1,0 +1,17 @@
+{
+	"name": "Dinesh",
+	"age": 26,
+	"city": "Chennai",
+	"result": true,
+	"percentage": 8.3,
+	"sub": {
+		"subName": "Java",
+		"mark": 80
+	},
+	"courses": [
+		"selenium",
+		"java",
+		"Sql",
+		"API"
+	]
+}

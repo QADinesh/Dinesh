@@ -1,0 +1,12 @@
+{
+	"name":"Dinesh",
+	"age":26,
+	"payment":true,
+	"amount":12.50,
+	"courses":{
+		"cname":"Selenium",
+		"version":"4.18.1"
+	},
+	"classes":["java","sql","restassured"]
+	
+}
